@@ -3,7 +3,7 @@
 Hello World 
 <br />
 <br />
-Hi, I'm zem-art,a passionate self-taught full stack developer from Indonesia.
+Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning Python 
