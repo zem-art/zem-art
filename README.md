@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-hello my frends 
+Hello World 
 <br />
 <br />
 Hi, I'm zem-art,a passionate self-taught full stack developer from Indonesia.
