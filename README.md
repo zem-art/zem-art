@@ -2,8 +2,10 @@
 
 hello my frends 
 
-
 <br />
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 <br />
 
 Hi, I'm zem-art,a passionate self-taught full stack developer from Indonesia.
