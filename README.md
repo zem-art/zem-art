@@ -24,6 +24,8 @@ Hi, I'm zem-art,a passionate self-taught full stack developer from Indonesia.
 ![github stats](https://github-readme-stats.vercel.app/api?username=zem-art&show_icons=true)
 
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
 <!--
 **zem-art/zem-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
