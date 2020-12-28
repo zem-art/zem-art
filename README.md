@@ -2,7 +2,7 @@
 
 hello my frends 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=zem_art&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=zem-art&show_icons=true)
 
 
 <!--
