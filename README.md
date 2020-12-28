@@ -5,9 +5,9 @@ Hello World
 <br />
 Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
+- 🔭 I’m currently working on [renderless-components]
 - 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/zem-art/github-readme-stats)
+- 👯 I’m looking to collaborate on [Github Readme Stats]
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/zem-art/issues)
 
 **Languages and Tools:**  
