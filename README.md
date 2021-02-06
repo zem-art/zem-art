@@ -5,10 +5,11 @@ Hello World
 <br />
 Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 
-- 🔭 I’m currently working on [renderless-components]
+- 🔭 I Love Seeing the Stars in the sky 
+  <!--I’m currently working on [renderless-components]-->
 - 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on [Github Readme Stats]
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/zem-art/issues)
+<!-- - 👯 I’m looking to collaborate on [Github Readme Stats]-->
+- 💬 Ask me about anything [here](https://t.me/zenid_175)
 
 **Languages and Tools:**  
 
