@@ -6,7 +6,7 @@ Hello World
 Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 
 - 🔭 I Love Seeing the Stars in the sky 
-- man_technologist code for fun
+
   <!--I’m currently working on [renderless-components]-->
 - 🌱 I’m currently learning Python 
 <!-- - 👯 I’m looking to collaborate on [Github Readme Stats]-->
