@@ -19,7 +19,7 @@ Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yPRN87C9vjrdtIBY7UTAiAHaGs%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://image.pngaaa.com/262/4152262-middle.png"></code>
+<code><img height="20" src="https://img.pngio.com/django-web-development-web-framework-python-software-framework-django-png-728_550.jpg"></code>
 
 <a href="https://github.com/zem-art/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zem-art&show_icons=true&include_all_commits=true&theme=material-palenight" alt="zem-art github stats" />
