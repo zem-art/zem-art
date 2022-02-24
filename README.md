@@ -11,6 +11,7 @@ Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 - 🌱 I’m currently learning Python 
 <!-- - 👯 I’m looking to collaborate on [Github Readme Stats]-->
 - 💬 Ask me about anything [here](https://t.me/zenid_175)
+- :briefcase: Gitlab [here](https://gitlab.com/zem-art) 
 
 **Languages and Tools:**  
 
