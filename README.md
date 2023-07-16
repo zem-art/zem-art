@@ -39,9 +39,10 @@ Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 ## Aspiring Developer specialised in Django.
 
 - 🌱 I’m currently learning **Django**
-- 👨‍💻 All of my projects are available at [https://ashish-dev.vercel.app/](https://ashish-dev.vercel.app/) and [https://ashblog.pythonanywhere.com/](https://ashblog.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [https://zem-art.vercel.app/](https://zem-art.vercel.app/)
 - 💬 Ask me about **Python, Javascript, Django, CSS, Tailwind CSS**
-- 📫 How to reach me **ashish-makes@gmail.com**
+- 📫 How to reach me **zaidzued13@gmail.com**
+<!-- and [https://ashblog.pythonanywhere.com/](https://ashblog.pythonanywhere.com/) -->
 
 ## 💻 I code with:
 <div align="left">
@@ -57,8 +58,8 @@ Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 </div>
 
 ## 📊 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=ashish-makes" height="150" alt="stats graph"  />
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=ashish-makes" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=ashish-makes" height="150" alt="languages graph"  />
 </div>
 
