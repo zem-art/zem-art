@@ -55,8 +55,8 @@ Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mariadb.svg" height="40" width="52" alt="react logo" />
+  <img src="https://cdn.simpleicons.org/react" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/mariadb" height="40" width="52" alt="maria db logo" />
 </div>
 
 ## 📊 GitHub Stats:
