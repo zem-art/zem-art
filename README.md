@@ -36,7 +36,7 @@ Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 
 # Hi 👋, I'm Zaid
 
-## Aspiring Developer specialised in Django.
+<!-- ## Aspiring Developer specialised in Django. -->
 
 - 🌱 I’m currently learning **Django**
 - 👨‍💻 All of my projects are available at [https://zem-art.vercel.app/](https://zem-art.vercel.app/)
