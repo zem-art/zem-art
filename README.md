@@ -40,7 +40,7 @@ Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 
 - 🌱 I’m currently learning **Django**
 - 👨‍💻 All of my projects are available at [https://zem-art.vercel.app/](https://zem-art.vercel.app/)
-- 💬 Ask me about **Python, Javascript, Django, CSS, Tailwind CSS**
+- 💬 Ask me about **Python, Javascript, Django, React, CSS, NodeJS**
 - 📫 How to reach me **zaidzued13@gmail.com**
 <!-- and [https://ashblog.pythonanywhere.com/](https://ashblog.pythonanywhere.com/) -->
 
