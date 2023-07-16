@@ -34,7 +34,7 @@ Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 **zem-art/zem-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-# Hi 👋, I'm Zaid
+**Hi 👋, I'm Zaid**
 
 <!-- ## Aspiring Developer specialised in Django. -->
 
