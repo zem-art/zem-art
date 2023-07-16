@@ -71,9 +71,11 @@ Hi, I'm zem-art ,a passionate self-taught full stack developer from Indonesia.
 ## 🌐 Socials:
 <div align="left">
   <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
+<!--
  ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]() 
+-->
