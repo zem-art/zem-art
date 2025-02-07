@@ -12,11 +12,11 @@
 <hr/>
 
 <!-- ## Aspiring Developer specialised in Django. -->
-- 🌱 I’m currently learning **Django**
+<!-- - 🌱 I’m currently learning **Django** -->
 - 👨‍💻 All of my projects are available at [https://mzaimzufar.my.id](https://mzaimzufar.my.id)
 - 💬 Ask me about **Python, Javascript, Django, React, CSS, NodeJS**
 - 📫 How to reach me **zenzenid175@gmail.com**
-- 🔭 I’m currently working on **learning django project**
+<!-- - 🔭 I’m currently working on **learning django project** -->
 <!-- - 👯 I’m looking to collaborate on [#](#) -->
 <!-- - 📝 I regularly write articles on [#](#) -->
 <!-- - 📄 Know about my experiences [#](#) -->
