@@ -32,7 +32,12 @@ Fullstack Developer focused on building clean, efficient, and scalable web appli
 ---
 
 ### 🤝 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/m-zaim-zufar-4a324a1b6) • [Portfolio](https://mzaimzufar.my.id) • [Twitter](https://twitter.com/username)
+[![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)]()
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
+[![GitHub followers](https://img.shields.io/github/followers/zem-art?style=social)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zaim-zufar-4a324a1b6)
+<!-- [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/username?style=social)]() -->
+<!-- [![Twitch Status](https://img.shields.io/twitch/status/username?style=social)]() -->
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=zem-art&label=profile%20views&color=grey&style=flat-square" />
