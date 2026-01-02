@@ -38,6 +38,5 @@ Fullstack Developer focused on building clean, efficient, and scalable web appli
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zaim-zufar-4a324a1b6)
 <!-- [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/username?style=social)]() -->
 <!-- [![Twitch Status](https://img.shields.io/twitch/status/username?style=social)]() -->
-
 <br/>
 <img src="https://komarev.com/ghpvc/?username=zem-art&label=profile%20views&color=grey&style=flat-square" />
