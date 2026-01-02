@@ -19,17 +19,6 @@ Fullstack Developer focused on building clean, efficient, and scalable web appli
 - **Databases:** PostgreSQL, MySQL, MongoDB, MariaDB.
 - **Tools:** Git, Docker, Linux, Postman.
 
----
-
-### 📊 Performance Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zem-art&show_icons=true&theme=vivid&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zem-art&layout=compact&theme=vivid&hide_border=true" height="150" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 [![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)]()
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
