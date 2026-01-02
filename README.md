@@ -20,8 +20,8 @@ Fullstack Developer focused on building clean, efficient, and scalable web appli
 - **Tools:** Git, Docker, Linux, Postman.
 
 ### 🤝 Let's Connect
-[![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)]()
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)]() -->
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]() -->
 [![GitHub followers](https://img.shields.io/github/followers/zem-art?style=social)]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zaim-zufar-4a324a1b6)
 <!-- [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/username?style=social)]() -->
