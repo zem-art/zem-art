@@ -49,8 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
 </div> -->
 
-<hr/>
-
+<!-- <hr/>
 ## 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=zem-art" height="150" alt="languages graph"  />
-</div>
+</div> -->
