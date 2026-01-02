@@ -1,55 +1,78 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+github+profile)](https://git.io/typing-svg)
+### <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/hand.gif" width="30px"> Hi there, I'm M. Zaim Zufar!
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&width=435&lines=Fullstack+Developer;Django+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zem-art&label=Profile%20views&color=0e75b6&style=flat" alt="zem-art" /> </p>
+---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)]()
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
-[![GitHub followers](https://img.shields.io/github/followers/zem-art?style=social)]()
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zaim-zufar-4a324a1b6)
-<!-- [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/username?style=social)]() -->
-<!-- [![Twitch Status](https://img.shields.io/twitch/status/username?style=social)]() -->
+### 💫 About Me
+A passionate **Fullstack Developer** focused on building scalable web applications. I love bridging the gap between robust backend logic and intuitive frontend experiences.
 
-<hr/>
+- 👨‍💻 My Portfolio: **[mzaimzufar.my.id](https://mzaimzufar.my.id)**
+- 🌱 Currently deep-diving into: **Advanced NestJS & Cloud Architecture**
+- 💬 Ask me about: **Python, Django, React, and Backend Optimization**
+- 📫 Reach me at: **zenzenid175@gmail.com**
 
-<!-- ## Aspiring Developer specialised in Django. -->
-<!-- - 🌱 I’m currently learning **Django** -->
-- 👨‍💻 All of my projects are available at [https://mzaimzufar.my.id](https://mzaimzufar.my.id)
-- 💬 Ask me about **Python, Javascript, Typescript, Django, React, CSS, NodeJS**
-- 📫 How to reach me **zenzenid175@gmail.com**
-<!-- - 🔭 I’m currently working on **learning django project** -->
-<!-- - 👯 I’m looking to collaborate on [#](#) -->
-<!-- - 📝 I regularly write articles on [#](#) -->
-<!-- - 📄 Know about my experiences [#](#) -->
-<!-- - ⚡ Fun fact **#** -->
-<!-- - 🌐 Socials: -->
+---
 
-<!-- and [https://ashblog.pythonanywhere.com/](https://ashblog.pythonanywhere.com/) -->
+### 🛠️ Tech Stack
 
-<!-- ## 💻 I code with:
- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.simpleicons.org/tailwindcss" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" width="42" alt="postman logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgress"  />
-  <img src="https://cdn.simpleicons.org/mariadb" height="30" width="42" alt="maria db logo" />
-  <img src="https://cdn.simpleicons.org/mongodb" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.simpleicons.org/firebase" height="30" width="42" alt="firebase logo"  />
-  <img src="https://cdn.simpleicons.org/react" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="node js"  /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express js"  /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="next js"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" width="42" alt="nest js"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
-</div> -->
+#### 🌐 Frontend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-<!-- <hr/>
-## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=zem-art" height="150" alt="languages graph"  />
-</div> -->
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+#### 🚀 Tools & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zem-art&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zem-art&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zem-art&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/m-zaim-zufar-4a324a1b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zenzenid175@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/username">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=zem-art&label=Profile%20views&color=0e75b6&style=flat-square" alt="zem-art" /> 
+</p>
