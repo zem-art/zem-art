@@ -1,4 +1,3 @@
-# Hi, I'm M. Zaim Zufar 👋
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+github+profile)](https://git.io/typing-svg)
 Fullstack Developer focused on building clean, efficient, and scalable web applications. Specialist in **Django** and modern JavaScript ecosystems.
 
@@ -38,5 +37,4 @@ Fullstack Developer focused on building clean, efficient, and scalable web appli
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zaim-zufar-4a324a1b6)
 <!-- [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/username?style=social)]() -->
 <!-- [![Twitch Status](https://img.shields.io/twitch/status/username?style=social)]() -->
-<br/>
 <img src="https://komarev.com/ghpvc/?username=zem-art&label=profile%20views&color=grey&style=flat-square" />
