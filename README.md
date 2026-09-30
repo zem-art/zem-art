@@ -16,7 +16,8 @@ Fullstack Developer focused on building clean, efficient, and scalable web appli
 [![Python Badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript Badge](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTML/CSS Badge](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Go Badge](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![Rust Badge](https://img.shields.io/badge/rust-%23000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 - **Backend :**
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
